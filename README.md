@@ -16,6 +16,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL - Neovim lsp uses tag stack](https://sbulav.github.io/til/til-neovim-lsp-tagstack/)
+- [Kubernetes debug autoscaler issues](https://sbulav.github.io/kubernetes/kubernetes-troubleshooting-autoscaler/)
+- [TIL - Adding mp4 mov to Github markdown files/blog posts](https://sbulav.github.io/til/til-adding-video-to-github-markdown/)
+- [GitOps Certified for Argo](https://sbulav.github.io/certifications/gitops-certified-for-argo/)
+- [Neovim enhancing completion with TabNine](https://sbulav.github.io/vim/neovim-enhancing-completion-with-tabnine/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Reach out & connect
