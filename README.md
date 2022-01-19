@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Becoming Packt’s technical reviewer](https://sbulav.github.io/kubernetes/becoming-packt-technical-reviewer/)
+- [Participating in Digital Ocean Kubernetes Challenge](https://sbulav.github.io/kubernetes/participating-in-do-k8s-challenge/)
 - [TIL - Neovim lsp uses tag stack](https://sbulav.github.io/til/til-neovim-lsp-tagstack/)
 - [Kubernetes debug autoscaler issues](https://sbulav.github.io/kubernetes/kubernetes-troubleshooting-autoscaler/)
 - [TIL - Adding mp4 mov to Github markdown files/blog posts](https://sbulav.github.io/til/til-adding-video-to-github-markdown/)
-- [GitOps Certified for Argo](https://sbulav.github.io/certifications/gitops-certified-for-argo/)
-- [Neovim enhancing completion with TabNine](https://sbulav.github.io/vim/neovim-enhancing-completion-with-tabnine/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
