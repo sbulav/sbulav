@@ -14,8 +14,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TIL - Neovim automatic highlighting references with LSP](https://sbulav.github.io/til/til-neovim-highlight-references/)
 - [Becoming Packt’s technical reviewer](https://sbulav.github.io/kubernetes/becoming-packt-technical-reviewer/)
+- [TIL - Neovim automatic highlighting references with LSP](https://sbulav.github.io/til/til-neovim-highlight-references/)
 - [Participating in Digital Ocean Kubernetes Challenge](https://sbulav.github.io/kubernetes/participating-in-do-k8s-challenge/)
 - [TIL - Neovim lsp uses tag stack](https://sbulav.github.io/til/til-neovim-lsp-tagstack/)
 - [Kubernetes debug autoscaler issues](https://sbulav.github.io/kubernetes/kubernetes-troubleshooting-autoscaler/)
