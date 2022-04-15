@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Two years to the blog](https://sbulav.github.io/blog/two-years-to-blog/)
 - [Improving work with Terraform in Neovim](https://sbulav.github.io/vim/neovim-improving-work-with-terraform/)
 - [Becoming Packt’s technical reviewer](https://sbulav.github.io/kubernetes/becoming-packt-technical-reviewer/)
 - [TIL - Neovim automatic highlighting references with LSP](https://sbulav.github.io/til/til-neovim-highlight-references/)
 - [Participating in Digital Ocean Kubernetes Challenge](https://sbulav.github.io/kubernetes/participating-in-do-k8s-challenge/)
-- [TIL - Neovim lsp uses tag stack](https://sbulav.github.io/til/til-neovim-lsp-tagstack/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
