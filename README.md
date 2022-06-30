@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL - Adding maps to Github markdown files/blog posts](https://sbulav.github.io/til/til-adding-maps-to-github-markdown/)
 - [Passed a few free Kubernetes Certifications](https://sbulav.github.io/certifications/passed-few-free-kubernetes-certifications/)
 - [Implementing Calico CNI on existing cluster](https://sbulav.github.io/aws/aws-calico-implementing-on-existing-cluster/)
 - [Signing Git commits in NeoVim](https://sbulav.github.io/vim/neovim-signing-git-commits/)
 - [TIL - Keda and DataDog don’t work together](https://sbulav.github.io/til/aws/til-keda-datadog-dont-work-together/)
-- [Two years to the blog](https://sbulav.github.io/blog/two-years-to-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
