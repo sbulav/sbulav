@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Calico with kube-stack-prometheus](https://sbulav.github.io/kubernetes/monitoring-calico-kube-stack-prometheus/)
 - [Neovim opening GitHub repos URLs](https://sbulav.github.io/vim/neovim-opening-github-repos/)
 - [TIL - Adding maps to Github markdown files/blog posts](https://sbulav.github.io/til/til-adding-maps-to-github-markdown/)
 - [Passed a few free Kubernetes Certifications](https://sbulav.github.io/certifications/passed-few-free-kubernetes-certifications/)
 - [Implementing Calico CNI on existing cluster](https://sbulav.github.io/aws/aws-calico-implementing-on-existing-cluster/)
-- [Signing Git commits in NeoVim](https://sbulav.github.io/vim/neovim-signing-git-commits/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
