@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitOps Certified for Argo II](https://sbulav.github.io/certifications/gitops-at-scale/)
 - [TIL - Terraform refactor resources without recreation](https://sbulav.github.io/til/terraform/til-terraform-refactor-without-recreation/)
 - [TIL - Kubectl integrated Kustomize](https://sbulav.github.io/til/kubernetes/til-kubectl-integrated-kustomize/)
 - [Monitoring Calico with kube-stack-prometheus](https://sbulav.github.io/kubernetes/monitoring-calico-kube-stack-prometheus/)
 - [Neovim opening GitHub repos URLs](https://sbulav.github.io/vim/neovim-opening-github-repos/)
-- [TIL - Adding maps to Github markdown files/blog posts](https://sbulav.github.io/til/til-adding-maps-to-github-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
