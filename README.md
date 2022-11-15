@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Truenas Scale monitoring Huawei UPS2000G](https://sbulav.github.io/truenas/truenas-ups-huawei2000/)
 - [Truenas Scale configure kubectl k9s](https://sbulav.github.io/truenas/truenas-installing-kubectl/)
 - [Truenas scale install fish](https://sbulav.github.io/truenas/truenas-install-fish/)
 - [GitOps Certified for Argo II](https://sbulav.github.io/certifications/gitops-at-scale/)
 - [TIL - Terraform refactor resources without recreation](https://sbulav.github.io/til/terraform/til-terraform-refactor-without-recreation/)
-- [TIL - Kubectl integrated Kustomize](https://sbulav.github.io/til/kubernetes/til-kubectl-integrated-kustomize/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
