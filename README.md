@@ -26,4 +26,4 @@
 
 ## Reach out & connect
 
-[Email](mailto:sergey.bulavintsev@gmail.com)
+[Email](mailto:bulavintsev.sergey@gmail.com)
