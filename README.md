@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using renovate to update Nix flakes](https://sbulav.github.io/nix/renovate-update-nix-flake/)
 - [Switching from nil to nixd Language Server for Better Nix Development Experience](https://sbulav.github.io/vim/neovim-setting-up-nixd/)
 - [Running testcontainers in Kubernetes with KubeDock](https://sbulav.github.io/kubernetes/running-testcontainers-in-kubernetes/)
 - [Validating Gitlab CI in Neovim](https://sbulav.github.io/vim/neovim-validating-gitlab-ci/)
 - [Fingerprint Authentication with fprintd on NixOS](https://sbulav.github.io/nix/nix-fingerprint-authentication/)
-- [Nix Colemak-DH layout](https://sbulav.github.io/nix/nix-colemak-dh/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
