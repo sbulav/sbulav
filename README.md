@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL - WebRTC landing page for testing webcam and screen sharing](https://sbulav.github.io/til/til-webrtc-landing-page/)
 - [Running Rootless Forgejo Runners in Kubernetes on Ubuntu 24.04](https://sbulav.github.io/kubernetes/running-rootless-forgejo-runners-kubernetes-ubuntu/)
 - [Obsidian Sync Between Devices Using Nextcloud](https://sbulav.github.io/obsidian/nextcloud/obsidian-sync-between-devices-using-nextcloud/)
 - [&lpar;Re&rpar;Packaging Linux/Mac Kontur Talk Application with Nix](https://sbulav.github.io/nix/repackaging-linux-mac-kontur-talk-with-nix/)
 - [Understanding ZFS-ZED Service Failures on NixOS](https://sbulav.github.io/nix/understanding-zfs-zed-failures-nixos/)
-- [Using renovate to update Nix flakes](https://sbulav.github.io/nix/renovate-update-nix-flake/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
