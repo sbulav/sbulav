@@ -14,11 +14,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Post #100 and a full blog redesign](https://sbulav.github.io/blog/100th-post-and-blog-redesign/)
 - [Calico Network Policy Visualiser](https://sbulav.github.io/kubernetes/calico-policy-visualiser/)
 - [snacks-tea.nvim — Forgejo integration for Neovim](https://sbulav.github.io/neovim/plugins/neovim-snacks-tea/)
 - [TIL - WebRTC landing page for testing webcam and screen sharing](https://sbulav.github.io/til/til-webrtc-landing-page/)
 - [Running Rootless Forgejo Runners in Kubernetes on Ubuntu 24.04](https://sbulav.github.io/kubernetes/running-rootless-forgejo-runners-kubernetes-ubuntu/)
-- [Obsidian Sync Between Devices Using Nextcloud](https://sbulav.github.io/obsidian/nextcloud/obsidian-sync-between-devices-using-nextcloud/)
 <!-- BLOG-POST-LIST:END -->
 
 [![sbulav's github activity graph](https://activity-graph.herokuapp.com/graph?username=sbulav&bg_color=000000&color=932092&line=932092&point=932092&area=true&hide_border=true)](https://github.com/sbulav?tab=repositories)
