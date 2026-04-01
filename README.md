@@ -14,8 +14,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [jira-oil.nvim — Edit Jira like a Neovim buffer](https://sbulav.github.io/neovim/plugins/jira-oil-nvim/)
 - [How I record clean GIF demos for Neovim plugins](https://sbulav.github.io/neovim/plugins/neovim-beautiful-plugin-demos/)
+- [jira-oil.nvim — Edit Jira like a Neovim buffer](https://sbulav.github.io/neovim/plugins/jira-oil-nvim/)
 - [Post #100 and a full blog redesign](https://sbulav.github.io/blog/100th-post-and-blog-redesign/)
 - [Calico Network Policy Visualiser](https://sbulav.github.io/kubernetes/calico-policy-visualiser/)
 - [snacks-tea.nvim — Forgejo integration for Neovim](https://sbulav.github.io/neovim/plugins/neovim-snacks-tea/)
