@@ -1,0 +1,45 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - scripts/generate_activity.py
+      - scripts/test_generate_activity.py
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: master
+      - name: Test chart generation
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Generate light and dark charts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/generate_activity.py
+      - name: Commit updated charts
+        run: |
+          git add assets/activity-light.svg assets/activity-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update activity charts'
+          git pull --rebase origin master
+          git push origin HEAD:master

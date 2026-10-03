@@ -24,6 +24,14 @@ Previously earned **Red Hat Certified Architect (RHCA) in Infrastructure — Lev
 
 [More on the blog →](https://sbulav.github.io/)
 
+<a href="https://github.com/sbulav?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+    <img alt="Recent GitHub activity: daily contributions over the last 30 completed days" src="assets/activity-light.svg" width="840">
+  </picture>
+</a>
+
 ## Let's connect
 
 Happy to chat about Kubernetes at scale, building operators, or Neovim tooling.
