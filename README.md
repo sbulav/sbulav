@@ -17,9 +17,9 @@ Previously earned **Red Hat Certified Architect (RHCA) in Infrastructure — Lev
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Kubernetes Network Stack in 2026: Still Calico, BGP and BFD](https://sbulav.github.io/kubernetes/kubernetes-network-stack-2026/)
 - [jira-oil.nvim — Edit Jira like a Neovim buffer](https://sbulav.github.io/neovim/plugins/jira-oil-nvim/)
 - [How I record clean GIF demos for Neovim plugins](https://sbulav.github.io/neovim/plugins/neovim-beautiful-plugin-demos/)
-- [Post #100 and a full blog redesign](https://sbulav.github.io/blog/100th-post-and-blog-redesign/)
 <!-- BLOG-POST-LIST:END -->
 
 [More on the blog →](https://sbulav.github.io/)
